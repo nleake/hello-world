@@ -1,0 +1,43 @@
+body {
+	background-color: #FFE;
+
+}
+div {
+	background-color: #ffffff;
+	max-width: 900px;
+	margin: 0 auto;
+	border-radius: 15px;
+}
+h1 {
+	color: #ffffff;
+	font-family: Georgia, serif;
+	text-align: center;
+	font-size: 56px;
+	background-color: red;
+}
+h2 {
+	color: #887;
+}
+a {
+	color: #900;
+}
+p {
+	font-family: Helvetica, serif;
+
+}
+img {
+	border: 1px solid black;
+}
+#ingredients {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: auto;
+	display: block;
+	justify-content: space-around;
+	text-align: left;
+}
+#recipe {
+	list-style: square;
+	margin: 15px 50px 15px 50px;
+	font-family: Georgia, serif;
+}
